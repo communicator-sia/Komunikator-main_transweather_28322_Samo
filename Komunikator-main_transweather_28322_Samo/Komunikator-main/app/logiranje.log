@@ -1,0 +1,41 @@
+2022-02-19 17:20:25,014 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2022-02-19 17:20:25,018 - werkzeug - INFO -  * Restarting with stat
+2022-02-19 17:20:26,284 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2022-02-19 17:20:26,284 - werkzeug - WARNING -  * Debugger is active!
+2022-02-19 17:20:26,290 - werkzeug - INFO -  * Debugger PIN: 133-263-742
+2022-02-19 17:20:26,393 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-02-19 17:20:26,394 - werkzeug - INFO -  * Running on http://192.168.1.41:5000/ (Press CTRL+C to quit)
+2022-02-19 17:20:26,609 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-02-19 17:20:26,614 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:26] "GET /socket.io/?EIO=4&transport=polling&t=NyIoD13 HTTP/1.1" 200 -
+2022-02-19 17:20:26,859 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:26] "POST /socket.io/?EIO=4&transport=polling&t=NyIoDT_&sid=CqImve_0tBpT0cZ9AAAA HTTP/1.1" 200 -
+2022-02-19 17:20:26,953 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:26] "GET /socket.io/?EIO=4&transport=polling&t=NyIoDU0&sid=CqImve_0tBpT0cZ9AAAA HTTP/1.1" 200 -
+2022-02-19 17:20:26,975 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:26] "POST /socket.io/?EIO=4&transport=polling&t=NyIoDZK&sid=CqImve_0tBpT0cZ9AAAA HTTP/1.1" 200 -
+2022-02-19 17:20:31,352 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:31] "GET / HTTP/1.1" 200 -
+2022-02-19 17:20:31,758 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:31] "GET /socket.io/?EIO=4&transport=polling&t=NyIoEfN HTTP/1.1" 200 -
+2022-02-19 17:20:32,025 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:32] "POST /socket.io/?EIO=4&transport=polling&t=NyIoEkg&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:20:32,104 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:32] "GET /socket.io/?EIO=4&transport=polling&t=NyIoEkg.0&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:20:32,112 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:32] "POST /socket.io/?EIO=4&transport=polling&t=NyIoEpj&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:20:51,617 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:51] "GET /socket.io/?EIO=4&transport=polling&t=NyIoDZQ&sid=CqImve_0tBpT0cZ9AAAA HTTP/1.1" 200 -
+2022-02-19 17:20:56,765 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:56] "GET /socket.io/?EIO=4&transport=polling&t=NyIoEpj.0&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:20:57,084 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:20:57] "POST /socket.io/?EIO=4&transport=polling&t=NyIoKr1&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:21:04,872 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:21:04] "POST /socket.io/?EIO=4&transport=polling&t=NyIoMpY&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:21:22,092 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:21:22] "GET /socket.io/?EIO=4&transport=polling&t=NyIoKr2&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:21:22,401 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:21:22] "POST /socket.io/?EIO=4&transport=polling&t=NyIoR0j&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:21:47,409 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:21:47] "GET /socket.io/?EIO=4&transport=polling&t=NyIoR0j.0&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:21:47,429 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:21:47] "POST /socket.io/?EIO=4&transport=polling&t=NyIoXCN&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:22:12,432 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:22:12] "GET /socket.io/?EIO=4&transport=polling&t=NyIoXCO&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:22:12,438 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:22:12] "POST /socket.io/?EIO=4&transport=polling&t=NyIodJM&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:22:37,463 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:22:37] "GET /socket.io/?EIO=4&transport=polling&t=NyIodJN&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:22:37,772 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:22:37] "POST /socket.io/?EIO=4&transport=polling&t=NyIojQO&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:23:02,775 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:23:02] "GET /socket.io/?EIO=4&transport=polling&t=NyIojQO.0&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:23:02,791 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:23:02] "POST /socket.io/?EIO=4&transport=polling&t=NyIopbz&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:23:27,796 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:23:27] "GET /socket.io/?EIO=4&transport=polling&t=NyIopb-&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:23:28,128 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:23:28] "POST /socket.io/?EIO=4&transport=polling&t=NyIovix&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:23:53,136 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:23:53] "GET /socket.io/?EIO=4&transport=polling&t=NyIoviz&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:23:53,152 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:23:53] "POST /socket.io/?EIO=4&transport=polling&t=NyIo_uo&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:24:18,171 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:24:18] "GET /socket.io/?EIO=4&transport=polling&t=NyIo_up&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:24:18,488 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:24:18] "POST /socket.io/?EIO=4&transport=polling&t=NyIp5_y&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:24:43,494 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:24:43] "GET /socket.io/?EIO=4&transport=polling&t=NyIp5_z&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-02-19 17:24:43,510 - werkzeug - INFO - 127.0.0.1 - - [19/Feb/2022 17:24:43] "POST /socket.io/?EIO=4&transport=polling&t=NyIpCBf&sid=kCIMNEkOzu8PD0NlAAAC HTTP/1.1" 200 -
+2022-03-28 06:34:50,616 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto

@@ -1,0 +1,15 @@
+2022-03-28 06:36:14,860 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:36:19,825 - conversation_main - INFO - Route data: ((0.49, 'Clear'), 'Danes na lokacijo ne pelje noben avtobus')
+2022-03-28 06:43:32,149 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:43:36,261 - conversation_main - INFO - Route data: ((0.49, 'Clear'), 'Danes na lokacijo ne pelje noben avtobus')
+2022-03-28 06:43:36,284 - output_to_user - INFO - Govor: 
+2022-03-28 06:44:29,618 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:44:33,203 - conversation_main - INFO - Route data: ((0.49, 'Clear'), 'Danes na lokacijo ne pelje noben avtobus')
+2022-03-28 06:45:47,976 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:45:51,655 - conversation_main - INFO - Route data: ((0.49, 'Clear'), 'Danes na lokacijo ne pelje noben avtobus')
+2022-03-28 06:46:25,688 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:46:30,570 - conversation_main - INFO - Route data: ((0.49, 'Clear'), 'Danes na lokacijo ne pelje noben avtobus')
+2022-03-28 06:53:20,772 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:53:25,089 - conversation_main - INFO - Route data: ((0.49, 'jasno'), 'Danes na lokacijo ne pelje noben avtobus')
+2022-03-28 06:56:20,743 - output_to_user - INFO - Govor: rad bi sel na trzasko cesto
+2022-03-28 06:56:24,804 - conversation_main - INFO - Route data: ((-0.52, 'jasno'), 'Danes na lokacijo ne pelje noben avtobus')
